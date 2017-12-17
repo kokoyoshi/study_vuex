@@ -1,0 +1,5 @@
+export const CHANGE_KEYWORD = 'CHANGE_KEYWORD';
+export const SEARCH = 'SEARCH';
+export const ADD_FAVORITE = 'ADD_FAVORITE';
+export const FTECH_FAVORITE = 'FTECH_FAVORITE';
+export const REMOVE_FAVORITE = 'REMOVE_FAVORITE';
